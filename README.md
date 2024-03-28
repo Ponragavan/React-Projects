@@ -48,7 +48,7 @@ cd React-Projects/Project-Management
 npm install
 ```
 
-### Usage
+4. To run:
 
 ```bash
 npm run dev
