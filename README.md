@@ -33,8 +33,8 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-```
-git clone --depth 1 --branch main https://github.com/Ponragavan/React-Projects.git Projects-Management
+```bash
+git clone https://github.com/Ponragavan/React-Projects.git
 ```
   - [Source code](./Project-Management/)
 
