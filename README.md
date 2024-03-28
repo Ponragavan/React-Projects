@@ -1,10 +1,8 @@
 # React-Projects
 
-# My Repository
-
 This repository contains multiple projects.
 
-## Project 1
+### Project 1
 
 Description of Project 1.
 
