@@ -8,7 +8,7 @@ If you want to understand more about this topic, check out the course: [React - 
 
 This project is a simple project management application built using React. It allows users to add projects, remove projects, add tasks to projects, and remove tasks from projects.
 
-[View code](./Project-Management)
+[View code](https://github.com/Ponragavan/React-Projects/blob/main/Project-Management)
 
 ### Table of Contents
 - [About](#about)
