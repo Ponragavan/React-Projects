@@ -14,7 +14,6 @@ This project is a simple project management application built using React. It al
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 
 ### About
 
