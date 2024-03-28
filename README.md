@@ -9,5 +9,5 @@ If you want to understand more about this topic, check out the course:
 
 Description of Project 1.<br>
   This Project
-  - [Project-Management](./Project-Management/README.md)
+  - [Project-Management](./Project-Management/)
 
