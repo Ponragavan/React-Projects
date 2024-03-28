@@ -1,7 +1,7 @@
 # React-Projects
 
 This repository contains several react projects that I learned during the Udemy course.<br>
-If you're interested in learning more about this project, you can check out the course it's based on:
+If you want to understand more about this topic, check out the course:
 
 - [React - The complete guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
