@@ -7,15 +7,14 @@ If you want to understand more about this topic, check out the course:
 
 # Project Management App
 
-This project is a simple project management application built using React. It allows users to add projects, remove projects, add tasks to projects, and remove tasks from projects.
+This project is a simple project management application built using React. It allows users to add projects, remove projects, add tasks to projects, and remove tasks from projects.<br>
+- [`View code`](./Project-Management/)
 
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -36,5 +35,22 @@ To run this project locally, follow these steps:
 ```bash
 git clone https://github.com/Ponragavan/React-Projects.git
 ```
-  - [Source code](./Project-Management/)
+
+2. Navigate to the project directory:
+
+```bash
+cd React-Projects/Project-Management
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+##Usage
+
+```bash
+npm run dev
+```
 
