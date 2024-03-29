@@ -64,7 +64,7 @@ The Basic Search Mechanism with Suggestions project is designed to demonstrate a
 - **Class Components**: Utilizes React class components to manage state and handle user interactions.
 - **Simple and Lightweight**: A minimalistic approach to implementing a basic search mechanism.
 
-## Installation
+### Installation
 
 To set up this project locally, follow these steps:
 
