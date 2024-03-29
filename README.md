@@ -53,7 +53,7 @@ npm install
 npm run dev
 ```
 
-## Search mechanism with class components
+## 2. Search mechanism with class components
 
 This project is a basic search mechanism built using React class components. It provides suggestions as users type in the search input field.
 
