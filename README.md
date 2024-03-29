@@ -91,3 +91,47 @@ npm install
 ```bash
 npm start
 ```
+
+## 3. Multipage app with 'createBrowserRouter':
+
+This project is a multi-page web application built using React and the BrowserRouter component. It consists of multiple pages with navigation between them.
+
+[View code](https://github.com/Ponragavan/React-Projects/blob/main/Multipage-App)
+
+### About
+
+The React Multi-Page App with BrowserRouter project demonstrates how to create a multi-page application using React. It utilizes the BrowserRouter component from React Router for handling navigation between different pages.
+
+### Features
+
+- **Multiple Pages**: Consists of multiple pages, each with its own unique content.
+- **Navigation**: Users can navigate between pages using links or buttons.
+- **BrowserRouter**: Utilizes the BrowserRouter component from React Router for managing client-side routing.
+
+### Installation
+
+To set up this project locally, follow these steps:
+
+1.Clone the repository:
+
+```bash
+git clone https://github.com/Ponragavan/React-Projects.git
+```
+
+2.Navigate to the project directory:
+
+```bash
+cd React-Projects/Multipage-App
+```
+
+3.Install dependencies:
+
+```bash
+npm install
+```
+
+4.To run:
+
+```bash
+npm start
+```
