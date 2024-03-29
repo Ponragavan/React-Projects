@@ -10,11 +10,6 @@ This project is a simple project management application built using React. It al
 
 [View code](https://github.com/Ponragavan/React-Projects/blob/main/Project-Management)
 
-### Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-
 ### About
 
 The Project Management App is designed to simplify the management of projects and tasks within those projects. It provides an intuitive interface for users to create, organize, and track their projects and associated tasks.
@@ -58,11 +53,6 @@ npm run dev
 This project is a basic search mechanism built using React class components. It provides suggestions as users type in the search input field.
 
 [View code](https://github.com/Ponragavan/React-Projects/blob/main/Class-Component)
-
-### Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
 
 ### About
 
