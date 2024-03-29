@@ -77,7 +77,7 @@ git clone https://github.com/Ponragavan/React-Projects.git
 2.Navigate to the project directory:
 
 ```bash
-cd React-Projects/Class-Components
+cd React-Projects/Class-Component
 ```
 
 3.Install dependencies:
