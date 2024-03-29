@@ -52,3 +52,52 @@ npm install
 ```bash
 npm run dev
 ```
+
+## Search mechanism with class components
+
+This project is a basic search mechanism built using React class components. It provides suggestions as users type in the search input field.
+
+[View code](https://github.com/Ponragavan/React-Projects/blob/main/Class-Component)
+
+### Table of Contents
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+
+### About
+
+The Basic Search Mechanism with Suggestions project is designed to demonstrate a simple search feature with real-time suggestions as users type. It utilizes React class components to manage the state and handle user input.
+
+### Features
+
+- **Search Suggestions**: Provides real-time suggestions as users type in the search input field.
+- **Class Components**: Utilizes React class components to manage state and handle user interactions.
+- **Simple and Lightweight**: A minimalistic approach to implementing a basic search mechanism.
+
+## Installation
+
+To set up this project locally, follow these steps:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Ponragavan/React-Projects.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd React-Projects/Class-Components
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. To run:
+
+```bash
+npm start
+```
