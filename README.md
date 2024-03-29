@@ -24,25 +24,25 @@ The Project Management App is designed to simplify the management of projects an
 
 To run this project locally, run the follwing code on your command prompt:
 
-1. Clone the repository:
+1.Clone the repository:
 
 ```bash
 git clone https://github.com/Ponragavan/React-Projects.git
 ```
 
-2. Navigate to the project directory:
+2.Navigate to the project directory:
 
 ```bash
 cd React-Projects/Project-Management
 ```
 
-3. Install dependencies:
+3.Install dependencies:
 
 ```bash
 npm install
 ```
 
-4. To run:
+4.To run:
 
 ```bash
 npm run dev
@@ -68,25 +68,25 @@ The Basic Search Mechanism with Suggestions project is designed to demonstrate a
 
 To set up this project locally, follow these steps:
 
-1. Clone the repository:
+1.Clone the repository:
 
 ```bash
 git clone https://github.com/Ponragavan/React-Projects.git
 ```
 
-2. Navigate to the project directory:
+2.Navigate to the project directory:
 
 ```bash
 cd React-Projects/Class-Components
 ```
 
-3. Install dependencies:
+3.Install dependencies:
 
 ```bash
 npm install
 ```
 
-4. To run:
+4.To run:
 
 ```bash
 npm start
