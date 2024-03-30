@@ -135,3 +135,52 @@ npm install
 ```bash
 npm start
 ```
+
+## 4. Movie Catalog App with Firebase Backend
+This project is a movie catalog web application that utilizes Firebase for backend services. Users can add, retrieve movie entries, which consist of titles, descriptions, and release dates.
+
+[View code](https://github.com/Ponragavan/React-Projects/blob/main/Firebase-Backend)
+
+### About
+
+The Movie Catalog App with Firebase Backend is a simple web application that demonstrates how to integrate Firebase for backend services in a React application. It allows users to perform CR operations on movie entries, storing their titles, descriptions, and release dates in the Firebase Realtime Database.
+
+### Features
+
+- **Firebase Integration**: Utilizes Firebase Realtime Database for storing movie data.
+- **CR Operations**: Supports Create and Read operations for movie entries.
+- **User-Friendly Interface**: Provides an intuitive interface for managing movie catalog entries.
+
+## Installation
+
+To set up this project locally, follow these steps:
+
+1.Clone the repository:
+
+```bash
+git clone https://github.com/Ponragavan/React-Projects.git
+```
+
+2.Navigate to the project directory:
+
+```bash
+cd React-Projects/Firebase-Backend
+```
+
+3.Set up Firebase:
+
+- Create a Firebase project on the Firebase console (https://firebase.google.com/).
+- Obtain your Firebase configuration object.
+- Replace the Firebase configuration in your project with your own configuration.
+- Set up Firebase Realtime Database and define the necessary rules.
+
+3.Install dependencies:
+
+```bash
+npm install
+```
+
+4.To run:
+
+```bash
+npm
