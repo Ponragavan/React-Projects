@@ -151,7 +151,7 @@ The Movie Catalog App with Firebase Backend is a simple web application that dem
 - **CR Operations**: Supports Create and Read operations for movie entries.
 - **User-Friendly Interface**: Provides an intuitive interface for managing movie catalog entries.
 
-## Installation
+### Installation
 
 To set up this project locally, follow these steps:
 
