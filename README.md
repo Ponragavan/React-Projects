@@ -2,6 +2,15 @@
 
 This repository contains several React projects that I learned during the Udemy course.
 
+**1. [Project Management App](#1-project-management-app)**
+
+**2. [Search Mechanism with Class components](#2-search-mechanism-with-class-components)**
+
+**3. [Multi-Page App with BrowserRouter](#3-multipage-app-with-createbrowserrouter)**
+
+**4. [Movie Catalog App with Firebase Backend](#4-movie-catalog-app-with-firebase-backend)**
+
+
 If you want to understand more about this topic, check out the course: [React - The complete guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 ## 1. Project Management App
