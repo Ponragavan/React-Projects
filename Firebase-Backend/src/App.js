@@ -15,7 +15,8 @@ function App() {
     setError(null);
     try {
       const res = await fetch(
-        "https://react-backend-11a33-default-rtdb.firebaseio.com/movies.json"
+        // "https://react-backend-11a33-default-rtdb.firebaseio.com/movies.json"
+        // Add your URL like above
       );
       if (!res.ok) {
         throw new Error("Something went wrong!");
