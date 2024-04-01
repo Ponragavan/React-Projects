@@ -10,6 +10,8 @@ This repository contains several React projects that I learned during the Udemy 
 
 **4. [Movie Catalog App with Firebase Backend](#4-movie-catalog-app-with-firebase-backend)**
 
+**5. [React Form with Basic Validation using Custom Hook](#5-react-form-with-basic-validation-using-custom-hook)**
+
 
 If you want to understand more about this topic, check out the course: [React - The complete guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
@@ -183,6 +185,51 @@ cd React-Projects/Firebase-Backend
 - Replace the Firebase configuration in your project with your own configuration.
 - Set up Firebase Realtime Database and define the necessary rules.
 
+4.Install dependencies:
+
+```bash
+npm install
+```
+
+5.To run:
+
+```bash
+npm start
+```
+
+## 5. React Form with Basic Validation using Custom Hook
+
+This project is a React application that demonstrates how to create forms with basic validation using a custom hook. It provides a reusable hook for form validation that can be easily integrated into any React application.
+
+[View code](https://github.com/Ponragavan/React-Projects/blob/main/Form-Validation)
+
+### About
+
+The React Form with Basic Validation using Custom Hook project showcases how to implement form validation in React applications using a custom hook approach. It includes basic validation rules such as required fields, minimum length, and format validation for email addresses.
+
+### Features
+
+- **Custom Hook for Validation**: Utilizes a custom hook to handle form validation logic.
+- **Basic Validation Rules**: Includes validation for required fields, minimum length, and email format.
+- **Reusable and Flexible**: The custom hook can be easily reused across different forms in the application.
+- **Dynamic Error Messages**: Displays dynamic error messages based on validation rules.
+
+### Installation
+
+To set up this project locally, follow these steps:
+
+1.Clone the repository:
+
+```bash
+git clone https://github.com/Ponragavan/React-Projects.git
+```
+
+2.Navigate to the project directory:
+
+```bash
+cd React-Projects/Form-Validation
+```
+
 3.Install dependencies:
 
 ```bash
@@ -192,4 +239,5 @@ npm install
 4.To run:
 
 ```bash
-npm
+npm start
+```
