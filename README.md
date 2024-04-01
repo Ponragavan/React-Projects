@@ -19,7 +19,9 @@ If you want to understand more about this topic, check out the course: [React - 
 
 This project is a simple project management application built using React. It allows users to add projects, remove projects, add tasks to projects, and remove tasks from projects.
 
-[View code](https://github.com/Ponragavan/React-Projects/blob/main/Project-Management) [Go to top](#react-projects)
+[View code](https://github.com/Ponragavan/React-Projects/blob/main/Project-Management) 
+
+[Go to top](#react-projects)
 
 ### About
 
@@ -63,7 +65,9 @@ npm run dev
 
 This project is a basic search mechanism built using React class components. It provides suggestions as users type in the search input field.
 
-[View code](https://github.com/Ponragavan/React-Projects/blob/main/Class-Component) [Go to top](#react-projects)
+[View code](https://github.com/Ponragavan/React-Projects/blob/main/Class-Component) 
+
+[Go to top](#react-projects)
 
 ### About
 
@@ -107,7 +111,9 @@ npm start
 
 This project is a multi-page web application built using React and the BrowserRouter component. It consists of multiple pages with navigation between them.
 
-[View code](https://github.com/Ponragavan/React-Projects/blob/main/Multipage-App) [Go to top](#react-projects)
+[View code](https://github.com/Ponragavan/React-Projects/blob/main/Multipage-App) 
+
+[Go to top](#react-projects)
 
 ### About
 
@@ -150,7 +156,9 @@ npm start
 ## 4. Movie Catalog App with Firebase Backend
 This project is a movie catalog web application that utilizes Firebase for backend services. Users can add, retrieve movie entries, which consist of titles, descriptions, and release dates.
 
-[View code](https://github.com/Ponragavan/React-Projects/blob/main/Firebase-Backend) [Go to top](#react-projects)
+[View code](https://github.com/Ponragavan/React-Projects/blob/main/Firebase-Backend) 
+
+[Go to top](#react-projects)
 
 ### About
 
@@ -201,7 +209,9 @@ npm start
 
 This project is a React application that demonstrates how to create forms with basic validation using a custom hook. It provides a reusable hook for form validation that can be easily integrated into any React application.
 
-[View code](https://github.com/Ponragavan/React-Projects/blob/main/Form-Validation) [Go to top](#react-projects)
+[View code](https://github.com/Ponragavan/React-Projects/blob/main/Form-Validation) 
+
+[Go to top](#react-projects)
 
 ### About
 
