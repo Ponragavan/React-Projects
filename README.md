@@ -10,7 +10,9 @@ This repository contains several React projects that I learned during the Udemy 
 
 **4. [Movie Catalog App with Firebase Backend](#4-movie-catalog-app-with-firebase-backend)**
 
-**5. [React Form with Basic Validation using Custom Hook](#5-react-form-with-basic-validation-using-custom-hook)**
+**5. [React Form with Basic Validation](#5-react-form-with-basic-validation-using-custom-hook)**
+
+**6. [React Custom Hook - 'useCounter'](#6react-custom-hook---usecounter)**
 
 
 If you want to understand more about this topic, check out the course: [React - The complete guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
@@ -107,7 +109,7 @@ npm install
 npm start
 ```
 
-## 3. Multipage app with 'createBrowserRouter':
+## 3. Multipage app with 'createBrowserRouter'
 
 This project is a multi-page web application built using React and the BrowserRouter component. It consists of multiple pages with navigation between them.
 
@@ -238,6 +240,52 @@ git clone https://github.com/Ponragavan/React-Projects.git
 
 ```bash
 cd React-Projects/Form-Validation
+```
+
+3.Install dependencies:
+
+```bash
+npm install
+```
+
+4.To run:
+
+```bash
+npm start
+```
+
+## 6.React Custom Hook - 'useCounter'
+
+This project defines a custom React hook named useCounter that returns a counter value and accepts an argument indicating whether it should be a forward or backward counter.
+
+[View code](https://github.com/Ponragavan/React-Projects/blob/main/Custom-Hooks) 
+
+[Go to top](#react-projects)
+
+### About
+
+The useCounter custom hook is designed to provide a flexible way to manage a counter in React components. It can be configured to count either forwards or backwards based on the argument provided.
+
+### Features
+
+- **Custom Hook**: Provides a custom hook named useCounter for managing counter functionality.
+- **Forward or Backward Counting**: Supports both forward and backward counting based on the boolean argument provided.
+- **Flexible Integration**: Can be easily integrated into React components to add counter functionality.
+
+### Installation
+
+To set up this project locally, follow these steps:
+
+1.Clone the repository:
+
+```bash
+git clone https://github.com/Ponragavan/React-Projects.git
+```
+
+2.Navigate to the project directory:
+
+```bash
+cd React-Projects/Custom-Hooks
 ```
 
 3.Install dependencies:
