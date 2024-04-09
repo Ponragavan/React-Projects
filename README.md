@@ -14,6 +14,8 @@ This repository contains several React projects that I learned during the Udemy 
 
 **6. [React Custom Hook - 'useCounter'](#6react-custom-hook---usecounter)**
 
+**7. [React Quiz App](#7react-quiz-app)**
+
 
 If you want to understand more about this topic, check out the course: [React - The complete guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
@@ -298,4 +300,51 @@ npm install
 
 ```bash
 npm start
+```
+
+## 7.React Quiz App
+
+This project is a quiz application built using React. It contains several questions with four options for each question.
+
+[View code](https://github.com/Ponragavan/React-Projects/blob/main/Quiz-App) 
+
+[Go to top](#react-projects)
+
+### About
+
+The React Quiz App with Timer is designed to provide users with an interactive quiz experience. It presents multiple-choice questions, each with four options. A timer is set for each question, ensuring a time-bound quiz session. Results are displayed at the end of the quiz.
+
+### Features
+
+- **Multiple Questions**: The quiz contains several questions with multiple-choice options.
+- **Timer**: A timer is set for each question to ensure time-bound quiz sessions.
+- **Results Display**: The quiz displays results at the end, showing the user's score and performance.
+- **Interactive Interface**: Users can select options for each question and navigate through the quiz.
+
+### Installation
+
+To set up this project locally, follow these steps:
+
+1.Clone the repository:
+
+```bash
+git clone https://github.com/Ponragavan/React-Projects.git
+```
+
+2.Navigate to the project directory:
+
+```bash
+cd React-Projects/Quiz-App
+```
+
+3.Install dependencies:
+
+```bash
+npm install
+```
+
+4.To run:
+
+```bash
+npm run dev
 ```
