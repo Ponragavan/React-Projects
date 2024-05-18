@@ -16,6 +16,8 @@ This repository contains several React projects that I learned during the Udemy 
 
 **7. [React Quiz App](#7react-quiz-app)**
 
+**8. [Tic Tac Toe Game](#8tic-tac-toe-game)**
+
 
 If you want to understand more about this topic, check out the course: [React - The complete guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
@@ -335,6 +337,53 @@ git clone https://github.com/Ponragavan/React-Projects.git
 
 ```bash
 cd React-Projects/Quiz-App
+```
+
+3.Install dependencies:
+
+```bash
+npm install
+```
+
+4.To run:
+
+```bash
+npm run dev
+```
+
+## 8.Tic Tac Toe Game
+
+This project is a simple 3x3 Tic Tac Toe game built using React. It allows two players to play the game, change player names, and reset the game.
+
+[View code](https://github.com/Ponragavan/React-Projects/blob/main/Tic-Tac-Toe) 
+
+[Go to top](#react-projects)
+
+### About
+
+The Tic Tac Toe Game is designed to provide a fun and interactive way to play the classic game of Tic Tac Toe. It offers an intuitive interface for players to engage in the game, change player names, and reset the game for a new round.
+
+### Features
+
+- **Gameplay**: Classic 3x3 Tic Tac Toe game for two players.
+- **Change Player Names**: Ability to change the names of the players.
+- **Reset Game**: Option to reset the game and start a new round.
+- **User-Friendly Interface**: Simple and easy-to-use interface for playing the game.
+
+### Installation
+
+To run this project locally, follow the instructions below:
+
+1.Clone the repository:
+
+```bash
+git clone https://github.com/Ponragavan/React-Projects.git
+```
+
+2.Navigate to the project directory:
+
+```bash
+cd React-Projects/Tic-Tac-Toe
 ```
 
 3.Install dependencies:
