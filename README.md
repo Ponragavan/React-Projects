@@ -2,21 +2,21 @@
 
 This repository contains several React projects that I learned during the Udemy course.
 
-**1. [Project Management App](#1-project-management-app)**
+**1. [Project-Management](#1-project-management-app)**
 
-**2. [Search Mechanism with Class components](#2-search-mechanism-with-class-components)**
+**2. [Class-component](#2-search-mechanism-with-class-components)**
 
-**3. [Multi-Page App with BrowserRouter](#3-multipage-app-with-createbrowserrouter)**
+**3. [Multipage-App](#3-multipage-app-with-createbrowserrouter)**
 
-**4. [Movie Catalog App with Firebase Backend](#4-movie-catalog-app-with-firebase-backend)**
+**4. [Firebase-Backend](#4-movie-catalog-app-with-firebase-backend)**
 
-**5. [React Form with Basic Validation](#5-react-form-with-basic-validation-using-custom-hook)**
+**5. [Form-Validation](#5-react-form-with-basic-validation-using-custom-hook)**
 
-**6. [React Custom Hook - 'useCounter'](#6react-custom-hook---usecounter)**
+**6. [Custom-Hooks](#6react-custom-hook---usecounter)**
 
-**7. [React Quiz App](#7react-quiz-app)**
+**7. [Quiz-App](#7react-quiz-app)**
 
-**8. [Tic Tac Toe Game](#8tic-tac-toe-game)**
+**8. [Tic-Tac-Toe](#8tic-tac-toe-game)**
 
 
 If you want to understand more about this topic, check out the course: [React - The complete guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
@@ -34,7 +34,7 @@ git clone https://github.com/Ponragavan/React-Projects.git
 2. Navigate to the project directory:
 
 ```bash
-cd React-Projects/<project-directory>
+cd React-Projects/<project-directory-as-in-the-top>
 ```
 
 3. Install dependencies:
