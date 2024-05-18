@@ -21,9 +21,46 @@ This repository contains several React projects that I learned during the Udemy 
 
 If you want to understand more about this topic, check out the course: [React - The complete guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
+###  Common Installation Steps
+
+To run any of these projects locally, follow these steps:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Ponragavan/React-Projects.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd React-Projects/<project-directory>
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. To run the project:
+
+- For React Vite projects:
+
+  ```bash
+  npm run dev
+  ```
+
+- For Normal React projects:
+
+  ```bash
+  npm start
+  ```
+
 ## 1. Project Management App
 
-This project is a simple project management application built using React. It allows users to add projects, remove projects, add tasks to projects, and remove tasks from projects.
+This project is a simple project management application built using React. It allows users to add projects, remove projects, add tasks to projects, and remove tasks from projects.<br/><br/>
+**React vite**
 
 [View code](https://github.com/Ponragavan/React-Projects/blob/main/Project-Management) 
 
@@ -39,37 +76,10 @@ The Project Management App is designed to simplify the management of projects an
 - **Task Management**: Add tasks to specific projects and remove tasks from projects.
 - **User-Friendly Interface**: Intuitive and easy-to-use interface for managing projects and tasks.
 
-### Installation
-
-To run this project locally, run the follwing code on your command prompt:
-
-1.Clone the repository:
-
-```bash
-git clone https://github.com/Ponragavan/React-Projects.git
-```
-
-2.Navigate to the project directory:
-
-```bash
-cd React-Projects/Project-Management
-```
-
-3.Install dependencies:
-
-```bash
-npm install
-```
-
-4.To run:
-
-```bash
-npm run dev
-```
-
 ## 2. Search mechanism with class components
 
-This project is a basic search mechanism built using React class components. It provides suggestions as users type in the search input field.
+This project is a basic search mechanism built using React class components. It provides suggestions as users type in the search input field.<br/><br/>
+**Normal React**
 
 [View code](https://github.com/Ponragavan/React-Projects/blob/main/Class-Component) 
 
@@ -85,37 +95,10 @@ The Basic Search Mechanism with Suggestions project is designed to demonstrate a
 - **Class Components**: Utilizes React class components to manage state and handle user interactions.
 - **Simple and Lightweight**: A minimalistic approach to implementing a basic search mechanism.
 
-### Installation
-
-To set up this project locally, follow these steps:
-
-1.Clone the repository:
-
-```bash
-git clone https://github.com/Ponragavan/React-Projects.git
-```
-
-2.Navigate to the project directory:
-
-```bash
-cd React-Projects/Class-Component
-```
-
-3.Install dependencies:
-
-```bash
-npm install
-```
-
-4.To run:
-
-```bash
-npm start
-```
-
 ## 3. Multipage app with 'createBrowserRouter'
 
-This project is a multi-page web application built using React and the BrowserRouter component. It consists of multiple pages with navigation between them.
+This project is a multi-page web application built using React and the BrowserRouter component. It consists of multiple pages with navigation between them.<br/><br/>
+**Normal React**
 
 [View code](https://github.com/Ponragavan/React-Projects/blob/main/Multipage-App) 
 
@@ -131,36 +114,9 @@ The React Multi-Page App with BrowserRouter project demonstrates how to create a
 - **Navigation**: Users can navigate between pages using links or buttons.
 - **BrowserRouter**: Utilizes the BrowserRouter component from React Router for managing client-side routing.
 
-### Installation
-
-To set up this project locally, follow these steps:
-
-1.Clone the repository:
-
-```bash
-git clone https://github.com/Ponragavan/React-Projects.git
-```
-
-2.Navigate to the project directory:
-
-```bash
-cd React-Projects/Multipage-App
-```
-
-3.Install dependencies:
-
-```bash
-npm install
-```
-
-4.To run:
-
-```bash
-npm start
-```
-
 ## 4. Movie Catalog App with Firebase Backend
-This project is a movie catalog web application that utilizes Firebase for backend services. Users can add, retrieve movie entries, which consist of titles, descriptions, and release dates.
+This project is a movie catalog web application that utilizes Firebase for backend services. Users can add, retrieve movie entries, which consist of titles, descriptions, and release dates.<br/><br/>
+**Normal React**
 
 [View code](https://github.com/Ponragavan/React-Projects/blob/main/Firebase-Backend) 
 
@@ -176,44 +132,17 @@ The Movie Catalog App with Firebase Backend is a simple web application that dem
 - **CR Operations**: Supports Create and Read operations for movie entries.
 - **User-Friendly Interface**: Provides an intuitive interface for managing movie catalog entries.
 
-### Installation
-
-To set up this project locally, follow these steps:
-
-1.Clone the repository:
-
-```bash
-git clone https://github.com/Ponragavan/React-Projects.git
-```
-
-2.Navigate to the project directory:
-
-```bash
-cd React-Projects/Firebase-Backend
-```
-
-3.Set up Firebase:
+### Set up Firebase:
 
 - Create a Firebase project on the Firebase console (https://firebase.google.com/).
 - Obtain your Firebase configuration object.
 - Replace the Firebase configuration in your project with your own configuration.
 - Set up Firebase Realtime Database and define the necessary rules.
 
-4.Install dependencies:
-
-```bash
-npm install
-```
-
-5.To run:
-
-```bash
-npm start
-```
-
 ## 5. React Form with Basic Validation using Custom Hook
 
-This project is a React application that demonstrates how to create forms with basic validation using a custom hook. It provides a reusable hook for form validation that can be easily integrated into any React application.
+This project is a React application that demonstrates how to create forms with basic validation using a custom hook. It provides a reusable hook for form validation that can be easily integrated into any React application.<br/><br/>
+**Normal React**
 
 [View code](https://github.com/Ponragavan/React-Projects/blob/main/Form-Validation) 
 
@@ -230,37 +159,10 @@ The React Form with Basic Validation using Custom Hook project showcases how to 
 - **Reusable and Flexible**: The custom hook can be easily reused across different forms in the application.
 - **Dynamic Error Messages**: Displays dynamic error messages based on validation rules.
 
-### Installation
-
-To set up this project locally, follow these steps:
-
-1.Clone the repository:
-
-```bash
-git clone https://github.com/Ponragavan/React-Projects.git
-```
-
-2.Navigate to the project directory:
-
-```bash
-cd React-Projects/Form-Validation
-```
-
-3.Install dependencies:
-
-```bash
-npm install
-```
-
-4.To run:
-
-```bash
-npm start
-```
-
 ## 6.React Custom Hook - 'useCounter'
 
-This project defines a custom React hook named useCounter that returns a counter value and accepts an argument indicating whether it should be a forward or backward counter.
+This project defines a custom React hook named useCounter that returns a counter value and accepts an argument indicating whether it should be a forward or backward counter.<br/><br/>
+**Normal React**
 
 [View code](https://github.com/Ponragavan/React-Projects/blob/main/Custom-Hooks) 
 
@@ -276,37 +178,10 @@ The useCounter custom hook is designed to provide a flexible way to manage a cou
 - **Forward or Backward Counting**: Supports both forward and backward counting based on the boolean argument provided.
 - **Flexible Integration**: Can be easily integrated into React components to add counter functionality.
 
-### Installation
-
-To set up this project locally, follow these steps:
-
-1.Clone the repository:
-
-```bash
-git clone https://github.com/Ponragavan/React-Projects.git
-```
-
-2.Navigate to the project directory:
-
-```bash
-cd React-Projects/Custom-Hooks
-```
-
-3.Install dependencies:
-
-```bash
-npm install
-```
-
-4.To run:
-
-```bash
-npm start
-```
-
 ## 7.React Quiz App
 
-This project is a quiz application built using React. It contains several questions with four options for each question.
+This project is a quiz application built using React. It contains several questions with four options for each question.<br/><br/>
+**React vite**
 
 [View code](https://github.com/Ponragavan/React-Projects/blob/main/Quiz-App) 
 
@@ -323,37 +198,10 @@ The React Quiz App with Timer is designed to provide users with an interactive q
 - **Results Display**: The quiz displays results at the end, showing the user's score and performance.
 - **Interactive Interface**: Users can select options for each question and navigate through the quiz.
 
-### Installation
-
-To set up this project locally, follow these steps:
-
-1.Clone the repository:
-
-```bash
-git clone https://github.com/Ponragavan/React-Projects.git
-```
-
-2.Navigate to the project directory:
-
-```bash
-cd React-Projects/Quiz-App
-```
-
-3.Install dependencies:
-
-```bash
-npm install
-```
-
-4.To run:
-
-```bash
-npm run dev
-```
-
 ## 8.Tic Tac Toe Game
 
-This project is a simple 3x3 Tic Tac Toe game built using React. It allows two players to play the game, change player names, and reset the game.
+This project is a simple 3x3 Tic Tac Toe game built using React. It allows two players to play the game, change player names, and reset the game.<br/><br/>
+**React vite**
 
 [View code](https://github.com/Ponragavan/React-Projects/blob/main/Tic-Tac-Toe) 
 
@@ -369,31 +217,3 @@ The Tic Tac Toe Game is designed to provide a fun and interactive way to play th
 - **Change Player Names**: Ability to change the names of the players.
 - **Reset Game**: Option to reset the game and start a new round.
 - **User-Friendly Interface**: Simple and easy-to-use interface for playing the game.
-
-### Installation
-
-To run this project locally, follow the instructions below:
-
-1.Clone the repository:
-
-```bash
-git clone https://github.com/Ponragavan/React-Projects.git
-```
-
-2.Navigate to the project directory:
-
-```bash
-cd React-Projects/Tic-Tac-Toe
-```
-
-3.Install dependencies:
-
-```bash
-npm install
-```
-
-4.To run:
-
-```bash
-npm run dev
-```
