@@ -45,22 +45,13 @@ npm install
 
 4. To run the project:
 
-- For React Vite projects:
-
-  ```bash
-  npm run dev
-  ```
-
-- For Normal React projects:
-
-  ```bash
-  npm start
-  ```
+ ```bash
+ npm start
+ ```
 
 ## 1. Project Management App
 
 This project is a simple project management application built using React. It allows users to add projects, remove projects, add tasks to projects, and remove tasks from projects.<br/><br/>
-**React vite**
 
 [View code](https://github.com/Ponragavan/React-Projects/blob/main/Project-Management) 
 
@@ -271,7 +262,6 @@ The React Quiz App with Timer is designed to provide users with an interactive q
 ## 8.Tic Tac Toe Game
 
 This project is a simple 3x3 Tic Tac Toe game built using React. It allows two players to play the game, change player names, and reset the game.<br/><br/>
-**React vite**
 
 [View code](https://github.com/Ponragavan/React-Projects/blob/main/Tic-Tac-Toe) 
 
